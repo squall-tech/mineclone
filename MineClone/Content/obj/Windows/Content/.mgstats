@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/dev/MineClone/MineClone/Content/Arial.spritefont","C:/dev/MineClone/MineClone/Content/bin/Windows/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,1.418208
+"C:/dev/MineClone/MineClone/Content/File.fx","C:/dev/MineClone/MineClone/Content/bin/Windows/Content/File.xnb","EffectProcessor","CompiledEffectContent",1293,2135,0.2134289
+"C:/dev/MineClone/MineClone/Content/grass.png","C:/dev/MineClone/MineClone/Content/bin/Windows/Content/grass.xnb","TextureProcessor","Texture2DContent",752,1109,0.0039582
+"C:/dev/MineClone/MineClone/Content/grass_side.png","C:/dev/MineClone/MineClone/Content/bin/Windows/Content/grass_side.xnb","TextureProcessor","Texture2DContent",408,1109,0.0019938
+"C:/dev/MineClone/MineClone/Content/grass_top.png","C:/dev/MineClone/MineClone/Content/bin/Windows/Content/grass_top.xnb","TextureProcessor","Texture2DContent",841,1109,0.001995
+"C:/dev/MineClone/MineClone/Content/texture.jpg","C:/dev/MineClone/MineClone/Content/bin/Windows/Content/texture.xnb","TextureProcessor","Texture2DContent",1291,4181,0.1665592
+"C:/dev/MineClone/MineClone/Content/textures.png","C:/dev/MineClone/MineClone/Content/bin/Windows/Content/textures.xnb","TextureProcessor","Texture2DContent",1971,4181,0.0009994
